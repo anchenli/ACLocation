@@ -2,8 +2,8 @@
 //  UnlimitedBackStageUITests.m
 //  UnlimitedBackStageUITests
 //
-//  Created by 邓金龙 on 16/1/18.
-//  Copyright © 2016年 邓金龙. All rights reserved.
+//  Created by anchen on 16/1/18.
+//  Copyright © 2016年 anchen. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
