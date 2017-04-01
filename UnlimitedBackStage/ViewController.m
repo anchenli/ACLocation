@@ -33,6 +33,8 @@
     [self.view addSubview:begButton];
     [begButton addTarget:self action:@selector(endLocation) forControlEvents:UIControlEventTouchUpInside];
     begButton.center = CGPointMake(self.view.center.x, self.view.center.y+40);
+    
+    NSLog(@"dddddd");
 }
 
 - (void)endLocation{
